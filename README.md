@@ -1,1 +1,1 @@
-# empty-maven-project
+# temp_project_name
