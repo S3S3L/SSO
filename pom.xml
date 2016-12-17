@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<artifactId>temp_project_name</artifactId>
+	<artifactId>sso</artifactId>
 	<build>
 		<plugins>
 			<plugin>
@@ -84,9 +84,9 @@
 	</build>
 
 	<parent>
-		<groupId>temp_group_id</groupId>
-		<artifactId>temp_artifact_id</artifactId>
-		<version>temp_version</version>
+		<groupId>com.s3s3l.spring-cloud</groupId>
+		<artifactId>spring-cloud-parent</artifactId>
+		<version>1.0.3-SNAPSHOT</version>
 	</parent>
 	
 	<distributionManagement>
