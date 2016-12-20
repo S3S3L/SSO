@@ -1,0 +1,6 @@
+server:
+  port: 6666
+  context-path: /uaa
+security:
+  user:
+    password: password
